@@ -1,5 +1,6 @@
 # Statistical_Rethinking
 These are my answers to the end of chapter exercises in Statistical Rethinking by Richard McElreath.  
+  
 I haven't had anyone check my work, so if you find any errors please let me know!
 
 
