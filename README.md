@@ -8,6 +8,7 @@ I haven't had anyone check my work, so if you find any errors please let me know
 Below are two other solution sets that have been posted. But I urge people to remember the words of Pal Halmos:
 > If you absolutely cannot do it, then go home, and think. But for heavens sake, don't look it up in the book. Until you give up. Looking it up in the book is giving up.
 
+* https://jmgirard.com/statistical-rethinking-ch2/
 * https://github.com/cavaunpeu/statistical-rethinking
 * https://github.com/jffist/statistical-rethinking-solutions
 
