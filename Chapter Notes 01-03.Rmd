@@ -1,5 +1,5 @@
 ---
-title: "Statistical Rethinking notes"
+title: "Statistical Rethinking notes chapters 1-3"
 author: "Mitch"
 date: "4/27/2020"
 output: html_document
