@@ -5,7 +5,7 @@ I haven't had anyone check my work, so if you find any errors please let me know
 
 
 # Additional resources
-Below is a list of solution sets that have been posted by other people working through the book. Trying to do self study is difficult, so having alternative resources is helpful for checking your work. That being said, remember to always do the problems on your own first before consulting other resources. I urge people to remember the words of Pal Halmos:
+Below is a list of solution sets that have been posted by other people who have worked through the book. Trying to do self study is difficult, so I find that having alternative resources to look at is helpful when checking if the problems are done correctly. That being said, remember to always do the problems on your own first before consulting other resources. I urge people to remember the words of Pal Halmos:
 > If you absolutely cannot do it, then go home, and think. But for heavens sake, don't look it up in the book. Until you give up. Looking it up in the book is giving up.
 
 * https://jmgirard.com/statistical-rethinking-ch2/
