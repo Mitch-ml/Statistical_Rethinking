@@ -2,9 +2,7 @@
 title: "Chapter_02"
 author: "Mitch"
 date: "2020-04-26"
-output: 
-  html_document:
-    keep_md: true
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
